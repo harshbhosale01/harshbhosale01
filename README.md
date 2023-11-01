@@ -19,14 +19,14 @@
 <code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
 
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshbhosale01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harsh's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbhosale01&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshbhosale01&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Harsh's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbhosale01&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/harshbhosale01/image-processing-fpga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshbhosale01&repo=image-processing-fpga&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshbhosale01&repo=image-processing-fpga&theme=dark" />
 </a>
 
 <br />
