@@ -9,7 +9,7 @@
 
 - 📈 My interest lies in FPGA, Digital Design and Verification domain.
 
-- 💻 I have worked on Image Processing acceleration related projects and currently exploring Digital Verification.
+- 💻 I have worked on Image Processing in HDL related projects and currently exploring Digital Verification.
 
 - 💬 Ask me about anything [here](mailto:harshbhosaleatwork@gmail.com)
 
