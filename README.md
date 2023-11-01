@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="40%" alt="Hello, I'm Harsh. A Tech Enthusiast!" src="./assets/hello_3.png" /></a></p>
+<p align="center"><a href=""><img width="43%" alt="Hello, I'm Harsh. A Tech Enthusiast!" src="./assets/hello_3.png" /></a></p>
 
 <br />
 
